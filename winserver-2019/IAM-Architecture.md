@@ -2,6 +2,7 @@
 
 
 
+
 \## Overview
 
 To secure the network infrastructure, local router authentication was alternated in favor of centralized AAA (Authentication, Authorization, and Accounting). A Windows Server environment was deployed to serve as the Active Directory Domain Controller and Network Policy Server (NPS).
