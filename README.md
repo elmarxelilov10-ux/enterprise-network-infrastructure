@@ -4,6 +4,7 @@
 
 ###### This repository documents a high-availability, multi-vendor enterprise network core built in PNETLab. The architecture features a redundant core/distribution layer, a dual-homed WAN edge with eBGP, and a hardened access layer.
 
+
 ###### 
 
 ###### The primary focus of this project was implementing a "Zero Single Point of Failure" design using Active/Active HSRP load sharing and AAA RADIUS authentication integrated with Windows Server.
